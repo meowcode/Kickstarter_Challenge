@@ -1,9 +1,9 @@
 # Kickstarter_Challenge
 
 
-##**Kickstarter Analysis**##
+##**Kickstarter Analysis**
 
-##**Overview**##
+##**Overview**
 The purpose of this analysis is to evaluate how different campaigns did in relation to their launch dates and their funding goals. 
 
 ##**Analysis and Challenges**
